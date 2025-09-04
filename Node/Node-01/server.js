@@ -23,10 +23,11 @@ const server = http.createServer((req, res) => {
 });
 
 server.listen(3000, () => {
-  console.log("Server Running");
+  console.log("Server Running on 3K");
 });
 
 // Server creation through EXPRESS js
+// Check package.json for dependencies and types
 
 import express from "express";
 

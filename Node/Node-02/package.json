@@ -1,15 +1,14 @@
 {
-  "name": "basics",
+  "name": "node-02",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "types": "commonjs",
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "express": "^5.1.0"
-  }
+  "type": "commonjs"
 }
